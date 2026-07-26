@@ -34,7 +34,9 @@ also enjoy watching structured financial self-destruction from a safe distance.
 
 <div align="center">
 
-[![Bhav](https://github-readme-stats.vercel.app/api/pin/?username=rajmaurya0904&repo=bhav&theme=default&hide_border=true)](https://github.com/rajmaurya0904/bhav)
+[![Stars](https://img.shields.io/github/stars/rajmaurya0904/bhav?style=for-the-badge&logo=github&label=stars&color=F5A623)](https://github.com/rajmaurya0904/bhav)
+[![Forks](https://img.shields.io/github/forks/rajmaurya0904/bhav?style=for-the-badge&logo=github&label=forks&color=F5A623)](https://github.com/rajmaurya0904/bhav/network/members)
+[![License](https://img.shields.io/github/license/rajmaurya0904/bhav?style=for-the-badge&color=1F3864)](https://github.com/rajmaurya0904/bhav/blob/master/LICENSE)
 
 </div>
 
@@ -74,12 +76,7 @@ also enjoy watching structured financial self-destruction from a safe distance.
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=rajmaurya0904&show_icons=true&count_private=true&hide_border=true&theme=default" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajmaurya0904&layout=compact&hide_border=true&theme=default" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajmaurya0904&hide_border=true&theme=default" alt="streak stats" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=rajmaurya0904&theme=flat&no-frame=true&row=1&column=6" alt="trophies" />
 
 </div>
 
