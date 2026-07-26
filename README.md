@@ -14,11 +14,23 @@ doesn't blow up, then I go home and build bots that might blow up my own portfol
 
 ---
 
-### 🚨 The Flagship: `bhav`
+### 🃏 Things I Will Neither Confirm Nor Deny
 
-My most starred repo, and the one I actually let recruiters see the code for.
+- I have a folder somewhere called `final_final_v2_ACTUAL_final`.
+- At least one of my cron jobs is held together by vibes and a bare `except: pass`.
+- I have, on multiple occasions, argued with an AI about risk management. The AI won.
+- My commit messages get progressively more honest after 11pm: `fix`, `actual fix`, `please work`, `I don't know why this works but don't touch it`.
+- I read the SEBI circulars for work. I read my own P&L for pain.
 
-> An open-source NSE options backtesting engine. Feed it a strategy, it feeds you back a deterministic Parquet file and the harsh, unfiltered truth about how much money you *would have* lost. Realistic Indian costs included — brokerage, STT, GST, stamp duty, the works. No sugar-coating, just SEBI-flavored reality.
+---
+
+### 🧮 Oh, and bhav exists
+
+I open-sourced an options backtesting engine so I could scientifically, reproducibly,
+and with a full Monte Carlo confidence interval, prove exactly how much money my
+strategies *would have* lost — in deterministic Parquet format, so the disappointment
+is at least well-typed. 24 people starred it. Either it's genuinely useful, or they
+also enjoy watching structured financial self-destruction from a safe distance.
 
 <div align="center">
 
@@ -26,7 +38,7 @@ My most starred repo, and the one I actually let recruiters see the code for.
 
 </div>
 
-`npx @rajmaurya0904/create-bhav` and let it ruin your morning coffee's worth of confidence.
+`npx @rajmaurya0904/create-bhav` — for when you too want receipts on your regret.
 
 ---
 
@@ -82,6 +94,7 @@ Claude API bill         : higher than my SIP contribution
 Bugs shipped to prod    : ██████████ 100%
 Bugs found in review    : ▁▁▁▁▁▁▁▁▁▁ 0%
 Confidence              : ▓▓▓▓▓▓▓▓▓▓ unwarranted
+Sleep schedule          : ▂▁▁▂▁▃▁▁▁▂ NSE market hours dependent
 ```
 
 ---
@@ -92,7 +105,5 @@ Confidence              : ▓▓▓▓▓▓▓▓▓▓ unwarranted
 
 *If a bot of mine ever makes you money, that was skill.*
 *If it loses you money, that was a "paper trading disclaimer issue."*
-
-![Profile views](https://komarev.com/ghpvc/?username=rajmaurya0904&color=1F3864&style=flat&label=people+who+stalked+this+profile)
 
 </div>
