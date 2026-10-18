@@ -31,6 +31,10 @@ By day I keep shareholder data clean and correct. By night I build options-tradi
 - 🛠️ [skillforge](https://github.com/rajmaurya0904/skillforge) - validate SKILL.md files before they ship
 - 📡 [replikit](https://github.com/rajmaurya0904/replikit) - PostgreSQL changes as real-time events for agents
 
+### Developer tooling
+
+- 🧱 [zenkit](https://github.com/rajmaurya0904/zenkit) - start a Python CLI, library or web project with tests, ruff and CI already wired up
+
 ## Say hi
 
 📫 raj7921222@gmail.com · [LinkedIn](https://linkedin.com/in/raj-kumar-075298330)
