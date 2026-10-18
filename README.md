@@ -20,6 +20,7 @@ By day I keep shareholder data clean and correct. By night I build options-tradi
 - 🔮 [kronos-options](https://github.com/rajmaurya0904/kronos-options) - intraday options signals from an AI forecasting model
 - 🧭 [polyterm](https://github.com/rajmaurya0904/polyterm) - Polymarket in your terminal, no wallet required
 - 📺 [tradingview-mcp](https://github.com/rajmaurya0904/tradingview-mcp) - let Claude drive your charts
+- ♟️ [open-game-review](https://github.com/rajmaurya0904/open-game-review) - free, unlimited Chess.com game reviews with Stockfish running in your browser ([try it](https://rajmaurya0904.github.io/open-game-review/))
 
 ## Current Projects
 
